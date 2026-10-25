@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gestión de Contactos</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="agregar_imagen">Agregar imagen</string>
+    <string name="pais">País</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="nota">Nota</string>
+    <string name="guardar_ficha">Guardar Ficha</string>
+    <string name="ver_catalogo">Ver Catálogo</string>
+    <string name="contactos">Contactos</string>
+    <string name="buscar_contacto">Buscar contacto</string>
+    <string name="acciones_rapidas">Acciones Rápidas</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="compartir">Compartir</string>
+    <string name="ver_ficha">Ver Ficha</string>
+    <string name="llamar_ahora">Llamar Ahora</string>
+    <string name="llamada_segura">Llamada Segura</string>
+    <string name="sin_contactos">Sin contactos</string>
+    <string name="contacto_sin_nombre">Contacto sin nombre</string>
+    <string name="pais_label">País: %1$s</string>
+    <string name="regresar">Regresar</string>
+    <string name="buscar">Buscar</string>
+    <string name="llamar">Llamar</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Blue Palette (Gradient & Solid) -->
+    <color name="blue_primary">#2563EB</color>
+    <color name="blue_dark">#1E3A8A</color>
+    <color name="blue_light">#DBEAFE</color>
+    <color name="teal_primary">#2563EB</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_cream">#F5F7FA</color>
+    <color name="bg_input">#FDFBF7</color>
+    <color name="bg_dark_call">#1A1D24</color>
+    <color name="bg_call_card">#262A34</color>
+
+    <!-- Button & Panel Accents -->
+    <color name="btn_navy">#182A45</color>
+    <color name="btn_navy_dark">#0F1B2E</color>
+
+    <!-- Action buttons tint -->
+    <color name="action_blue_bg">#DDEBFF</color>
+    <color name="action_blue_text">#1D4ED8</color>
+
+    <color name="action_red_bg">#FFE2E2</color>
+    <color name="action_red_text">#DC2626</color>
+
+    <color name="action_green_bg">#DCFCE7</color>
+    <color name="action_green_text">#15803D</color>
+
+    <color name="action_cyan_bg">#CFFAFE</color>
+    <color name="action_cyan_text">#0F766E</color>
+
+    <color name="call_green">#22C55E</color>
+    <color name="border_color">#CCCCCC</color>
+    <color name="text_dark">#1F2937</color>
+    <color name="text_muted">#6B7280</color>
+</resources>
